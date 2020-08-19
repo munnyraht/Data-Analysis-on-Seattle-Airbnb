@@ -5,7 +5,9 @@ This repo will consists of all the projects for my Data Science Nanodegree progr
 
 Project One:
  Data Analysis on Seattle Airbnb Open Data - https://www.kaggle.com/airbnb/seattle/data
- Clean, analyze, model, visualize data.
+ 
+ Clean, analyze, model, visualize data in jupyter notebooks
+ 
  Blog post: 
  
  
