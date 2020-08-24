@@ -8,7 +8,7 @@ Project One:
  
  Clean, analyze, model, visualize data in jupyter notebooks
  
- Blog post: 
+ Blog post: https://medium.com/@muniratsulaimon/data-analysis-on-seattle-airbnb-open-data-87865d281abe?source=friends_link&sk=25bed8e8ea0b6624297fc2246daeb7c7
  
  
  
