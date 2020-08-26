@@ -31,9 +31,9 @@ CRISP-DM process is generally used while data mining and is very reliable and us
  
  Project One folder 
  * Dataset folder - contains the Seattle AirBnb datasets
- * analysis.ipynb - Here is code for the data Analysis
+ * analysis.ipynb - Here is the code for the data Analysis
  
-### summary of the results of the analysis
+### Summary of the results of the analysis
  In summary several factors determines the price of a listing like the month, amenities,cancellation policy and so on. 
  Analysis amd explanation of these are made in the notebook markdowns
  
